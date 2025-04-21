@@ -5,7 +5,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Reporter;
 import org.testng.annotations.Test;
 
-public class pollscm {
+public class pollscmTest {
 @Test
 public void test() {
 	WebDriver driver=new ChromeDriver();
